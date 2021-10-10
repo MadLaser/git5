@@ -1,1 +1,2 @@
+LOCAL
 quelque mots
